@@ -1,0 +1,19 @@
+{
+  "name": "angular-velocity",
+  "version": "1.0.0",
+  "description": "[AngularJS](http://angularjs.org) ngAnimate integration for the [Velocity](http://velocityjs.org) animation library's UI pack plugin.",
+  "main": "angular-velocity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/discordance/angular-velocity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/discordance/angular-velocity/issues"
+  },
+  "homepage": "https://github.com/discordance/angular-velocity"
+}
